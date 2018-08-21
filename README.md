@@ -10,4 +10,4 @@ Joseph (UI/UX)
 
 To submit suggestions, features, errors or bugs, please send to https://github.com/compumatrix/projects/issues
 
-Please check https://github.com/compumatrix/projects/projects
+To view all our current projects and its status: https://github.com/compumatrix/projects/projects
