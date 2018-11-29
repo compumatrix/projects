@@ -7,6 +7,7 @@ This repository serves as a central monitoring for projects being developed by C
 James (Analyst)
 John (Lead Developer)
 Joseph (UI/UX)
+Chad (JS/Mobile)
 
 To submit suggestions, features, errors or bugs, please send to https://github.com/compumatrix/projects/issues
 
